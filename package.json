@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuhechan/node.git"
+  },
+  "author": "wuhechan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuhechan/node/issues"
+  },
+  "homepage": "https://github.com/wuhechan/node#readme",
+  "devDependencies": {
+    "koa": "^2.13.0",
+    "koa-mount": "^4.0.0"
+  }
+}
